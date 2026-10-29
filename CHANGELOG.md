@@ -4,3 +4,4 @@
 
 - 初始化仓库：量潮创新联盟历史。
 - 迁入 qtrecurit 历史文章三篇：先收集、梳理待补（见 ROADMAP）
+- 修正目录拼写：qtrecurit/accessment → qtrecurit/assessment
